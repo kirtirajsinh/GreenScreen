@@ -1,0 +1,31 @@
+h1{
+    color:lightblue;
+    padding:20px;
+  }
+  #div1 {
+    height: 700px;
+    font-family: verdana;
+    text-align: center;
+    background-color:gray;
+    border: 2px solid mediumturquoise;
+    padding: 15px;
+    margin: 50px;
+  }
+  canvas{
+    border: 4px solid green;
+    background-color: white;
+    width:600px;
+  }
+  .input{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 25px;
+    font: 12pt verona;
+  }
+  .btn{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 25px;
+    font: 12pt verona;
+  }
+  
