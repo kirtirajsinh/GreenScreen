@@ -44,6 +44,8 @@ function clearCanvas(){
  var context2 = canvas2.getContext("2d");
  context1.clearRect(0,0,canvas1.width,canvas1.height);
 context2.clearRect(0,0,canvas2.width,canvas2.height);
+document.getElementById("foreImg").value = "";
+document.getElementById("backImg").value = "";
 }
 
 function setSize1(){
